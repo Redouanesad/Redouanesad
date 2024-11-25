@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm REDOUANE</h1>
 <h3 align="center">A passionate Data Scientist from Morocoo</h3>
 
+</p>
+<p align="center">
+	<a href='https://ko-fi.com/codeoz' target='_blank'><img height='35' style='border:0px;height:46px;'       src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</p>
+
 - 📫 How to reach me **redouanesadouk7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
