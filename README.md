@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm REDOUANE</h1>
 <h3 align="center">A passionate Data Scientist from Morocoo</h3>
 
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **redouanesadouk7@gmail.com**
